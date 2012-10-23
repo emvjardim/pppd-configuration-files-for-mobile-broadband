@@ -1,0 +1,3 @@
+noauth
+pty "/etc/ppp/wait-dialup-hardware 10 mobile-noauth"
+
